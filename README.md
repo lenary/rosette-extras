@@ -7,7 +7,7 @@ I am open to more contributions!
 
 Install with:
 
-$ raco pkg install rosette-extras
+    $ raco pkg install rosette-extras
 
 
 
